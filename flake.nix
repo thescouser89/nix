@@ -13,6 +13,7 @@
         git-standup
         k9s
         kcat
+        kubectl
         kubernetes-helm
         openshift
         wrk
