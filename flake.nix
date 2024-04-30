@@ -14,6 +14,7 @@
         k9s
         kcat
         kubectl
+        kubectl-tree
         kubernetes-helm
         openshift
         wrk
