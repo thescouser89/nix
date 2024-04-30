@@ -10,11 +10,11 @@
     in pkgs.buildEnv {
       name = "home-packages";
       paths = with pkgs; [
-        openshift
-        helm
-        kcat
-        k9s
         git-standup
+        k9s
+        kcat
+        kubernetes-helm
+        openshift
         wrk
       ];
     };
