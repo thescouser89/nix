@@ -9,6 +9,7 @@
             packages.default = pkgs.buildEnv {
                 name = "home-packages";
                 paths = with pkgs; [
+                  fastfetch
                   git-standup
                   k9s
                   kcat
