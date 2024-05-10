@@ -17,6 +17,7 @@
                   kubernetes-helm
                   openshift
                   wrk
+                  zellij
                 ];
             };
         }
