@@ -10,12 +10,12 @@
                 name = "home-packages";
                 paths = with pkgs; [
                   git-standup           # for work log of commits
-                  jbang                 # for quarkus
                   k9s                   # to see current containers
                   kcat                  # kafka logging
                   kubectl
                   kubernetes-helm
                   openshift             # oc-cli
+                  quarkus
                   wrk
                   zellij
                 ];
