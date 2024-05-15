@@ -9,13 +9,13 @@
             packages.default = pkgs.buildEnv {
                 name = "home-packages";
                 paths = with pkgs; [
-                  git-standup
-                  k9s
-                  kcat
+                  git-standup           # for work log of commits
+                  jbang                 # for quarkus
+                  k9s                   # to see current containers
+                  kcat                  # kafka logging
                   kubectl
-                  kubectl-tree
                   kubernetes-helm
-                  openshift
+                  openshift             # oc-cli
                   wrk
                   zellij
                 ];
