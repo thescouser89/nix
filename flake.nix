@@ -14,6 +14,7 @@
                   kcat                  # kafka logging
                   kubectl
                   kubernetes-helm
+                  maestral
                   openshift             # oc-cli
                   quarkus
                   wrk
