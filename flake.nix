@@ -21,6 +21,8 @@
                   maestral
                   openshift             # oc-cli
                   quarkus
+                  scala
+                  sbt
                   wrk
                   zellij
                 ];
