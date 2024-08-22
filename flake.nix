@@ -24,6 +24,7 @@
                   scala
                   sbt
                   wrk
+                  yewtube
                   zellij
                 ];
             };
