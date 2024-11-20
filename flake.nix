@@ -13,6 +13,7 @@
                   nodePackages.bower
                   nodePackages.grunt-cli
                   git-standup           # for work log of commits
+                  jbang
                   k9s                   # to see current containers
                   kcat                  # kafka logging
                   kubectl
