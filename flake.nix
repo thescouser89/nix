@@ -26,6 +26,7 @@
                   sbt
                   wrk
                   yewtube
+                  zed-editor
                   zellij
                 ];
             };
