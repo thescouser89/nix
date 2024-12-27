@@ -23,6 +23,7 @@
                   quarkus
                   scala
                   sbt
+                  spacer
                   wrk
                   yewtube
                   zellij
