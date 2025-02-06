@@ -26,6 +26,7 @@
                   wrk
                   yewtube
                   zellij
+                  groovy
                 ];
             };
         }
