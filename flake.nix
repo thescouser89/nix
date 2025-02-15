@@ -18,7 +18,6 @@
                   kcat                  # kafka logging
                   kubectl
                   kubernetes-helm
-                  maestral
                   openshift             # oc-cli
                   quarkus
                   scala
@@ -27,6 +26,7 @@
                   yewtube
                   zellij
                   groovy
+                  starship
                 ];
             };
         }
