@@ -26,6 +26,8 @@
                   yewtube
                   zellij
                   groovy
+                  fselect
+                  dua
                 ];
             };
         }
