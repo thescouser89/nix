@@ -27,7 +27,6 @@
                   zellij
                   groovy
                   dua
-                  ventoy
                 ];
             };
         }
