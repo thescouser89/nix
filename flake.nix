@@ -27,7 +27,7 @@
                   zellij
                   groovy
                   dua
-                  topgrade
+		  rage
                 ];
             };
         }
