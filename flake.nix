@@ -28,6 +28,7 @@
                   groovy
                   dua
                   lazygit
+                  kubetail
                 ];
             };
         }
