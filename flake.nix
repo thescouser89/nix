@@ -30,6 +30,7 @@
                   lazygit
                   kubetail
                   stern
+                  wufei
                 ];
             };
         }
