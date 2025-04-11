@@ -29,6 +29,7 @@
                   dua
                   lazygit
                   kubetail
+                  stern
                 ];
             };
         }
