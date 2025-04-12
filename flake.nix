@@ -29,8 +29,6 @@
                   dua
                   lazygit
                   kubetail
-                  stern
-                  wufei
                 ];
             };
         }
