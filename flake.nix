@@ -15,7 +15,7 @@
                   git-standup           # for work log of commits
                   jbang
                   k9s                   # to see current containers
-                  kcat                  # kafka logging
+                  # kcat                  # kafka logging
                   kubectl
                   kubernetes-helm
                   openshift             # oc-cli
