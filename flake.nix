@@ -29,6 +29,8 @@
                   dua
                   lazygit
                   kubetail
+                  lein
+                  clojure
                 ];
             };
         }
