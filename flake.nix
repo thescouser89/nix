@@ -29,7 +29,7 @@
                   dua
                   lazygit
                   kubetail
-                  lein
+                  leiningen
                   clojure
                 ];
             };
