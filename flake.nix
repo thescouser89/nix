@@ -31,6 +31,7 @@
                   kubetail
                   leiningen
                   clojure
+                  dysk
                 ];
             };
         }
