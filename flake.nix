@@ -27,10 +27,7 @@
                   zellij
                   groovy
                   dua
-                  lazygit
                   kubetail
-                  leiningen
-                  clojure
                   dysk
                 ];
             };
