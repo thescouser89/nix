@@ -29,6 +29,7 @@
                   dua
                   kubetail
                   dysk
+                  gradle
                 ];
             };
         }
