@@ -16,6 +16,7 @@
                   jbang
                   k9s                   # to see current containers
                   # kcat                  # kafka logging
+                  eza
                   kubectl
                   kubernetes-helm
                   openshift             # oc-cli
