@@ -10,13 +10,11 @@
                 name = "home-packages";
                 paths = with pkgs; [
                   nodePackages.prettier
-                  nodePackages.bower
                   nodePackages.grunt-cli
                   git-standup           # for work log of commits
                   jbang
                   k9s                   # to see current containers
                   # kcat                  # kafka logging
-                  eza
                   kubectl
                   kubernetes-helm
                   openshift             # oc-cli
