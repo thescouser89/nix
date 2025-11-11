@@ -30,6 +30,7 @@
                   kubetail
                   dysk
                   gradle
+                  nvm
                 ];
             };
         }
