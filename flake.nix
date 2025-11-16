@@ -30,7 +30,7 @@
                   kubetail
                   dysk
                   gradle
-                  nvm
+                  backrest
                 ];
             };
         }
