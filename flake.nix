@@ -30,7 +30,6 @@
                   kubetail
                   dysk
                   gradle
-                  backrest
                 ];
             };
         }
