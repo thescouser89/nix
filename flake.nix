@@ -19,6 +19,7 @@
                   kubectl
                   kubernetes-helm
                   openshift             # oc-cli
+                  virtctl
                   quarkus
                   scala
                   sbt
