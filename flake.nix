@@ -31,6 +31,7 @@
                   kubetail
                   dysk
                   gradle
+                  bazel
                 ];
             };
         }
