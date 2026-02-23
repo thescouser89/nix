@@ -18,7 +18,6 @@
                   kubectl
                   kubernetes-helm
                   openshift             # oc-cli
-                  argocd
                   quarkus
                   scala
                   sbt
