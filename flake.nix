@@ -29,6 +29,7 @@
                   kubetail
                   dysk
                   gradle
+                  zizmor
                 ];
             };
         }
