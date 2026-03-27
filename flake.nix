@@ -30,6 +30,7 @@
                   dysk
                   gradle
                   zizmor
+                  actionlint
                 ];
             };
         }
