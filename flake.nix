@@ -9,7 +9,7 @@
             packages.default = pkgs.buildEnv {
                 name = "home-packages";
                 paths = with pkgs; [
-                  nodePackages.prettier
+                  prettier
                   git-standup           # for work log of commits
                   jbang
                   k9s                   # to see current containers
