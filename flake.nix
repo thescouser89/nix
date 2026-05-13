@@ -17,6 +17,7 @@
                   eza
                   kubectl
                   kubernetes-helm
+                  krew
                   openshift             # oc-cli
                   quarkus
                   scala
