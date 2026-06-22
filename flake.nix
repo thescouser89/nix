@@ -32,6 +32,7 @@
                   gradle
                   zizmor
                   actionlint
+                  cliamp
                 ];
             };
         }
