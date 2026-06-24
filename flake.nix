@@ -33,6 +33,7 @@
                   zizmor
                   actionlint
                   cosign
+                  oras
                 ];
             };
         }
