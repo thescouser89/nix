@@ -34,6 +34,7 @@
                   actionlint
                   cosign
                   oras
+                  dive
                 ];
             };
         }
