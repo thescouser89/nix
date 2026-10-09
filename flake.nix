@@ -24,6 +24,7 @@
                   sbt
                   wrk
                   yewtube
+                  zellij
                   groovy
                   dua
                   kubetail
@@ -32,6 +33,7 @@
                   actionlint
                   cosign
                   oras
+                  dive
                 ];
             };
         }
