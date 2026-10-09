@@ -28,7 +28,6 @@
                   groovy
                   dua
                   kubetail
-                  dysk
                   gradle
                   zizmor
                   actionlint
