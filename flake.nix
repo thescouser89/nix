@@ -35,7 +35,6 @@
                   cosign
                   oras
                   dive
-                  vicinae               # launcher
                 ];
             };
         }
