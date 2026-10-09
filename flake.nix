@@ -10,6 +10,9 @@
                 name = "home-packages";
                 paths = with pkgs; [
                   prettier
+                  git-standup           # for work log of commits
+                  jbang
+                  k9s                   # to see current containers
                   # kcat                  # kafka logging
                   eza
                   kubectl
